@@ -1,6 +1,17 @@
 {
   "name": "ngx-test-hw",
   "version": "0.0.1",
+  "author": "Miguel Felipe G. Calo <miguelc0611@yahoo.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azamanaza/TestHWLibrary.git"
+  },
+  "bugs": {
+    "url": "https://github.com/azamanaza/TestHWLibrary/issues"
+  },
+  "homepage": "https://github.com/azamanaza/TestHWLibrary",
+  "keywords": ["angular", "javascript", "typescript", "test library"],
+  "license": "MIT",
   "peerDependencies": {
     "@angular/common": "^8.1.1",
     "@angular/core": "^8.1.1"

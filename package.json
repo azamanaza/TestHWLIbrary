@@ -1,6 +1,17 @@
 {
   "name": "test-hwlibrary",
   "version": "0.0.0",
+  "author": "Miguel Felipe G. Calo <miguelc0611@yahoo.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azamanaza/TestHWLibrary.git"
+  },
+  "bugs": {
+    "url": "https://github.com/azamanaza/TestHWLibrary/issues"
+  },
+  "homepage": "https://github.com/azamanaza/TestHWLibrary",
+  "keywords": ["angular", "javascript", "typescript", "test library"],
+  "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,7 +20,6 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "~8.1.0",
     "@angular/common": "~8.1.0",

@@ -17,7 +17,15 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ngx-test-hw": [
+        "dist/ngx-test-hw"
+      ],
+      "ngx-test-hw/*": [
+        "dist/ngx-test-hw/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
